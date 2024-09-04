@@ -7,7 +7,8 @@ Este é um projeto de teste automatizado utilizando o [Cypress](https://www.cypr
 Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/) (versão 12 ou superior)
-- [npm](https://www.npmjs.com/) ou [yarn](https://yarnpkg.com/)
+- [npm](https://www.npmjs.com/)
+- nom install -D cypress
 
 ## Instalação
 
@@ -15,3 +16,7 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 
    ```bash
    git clone https://github.com/rodrigokudaka/docconect.git
+
+## Execucão 
+
+1. Abrir o terminal no VSCODE e executar o comando npx cypress open
