@@ -1,0 +1,19 @@
+{
+  "name": "projetos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@shelex/cypress-allure-plugin": "^2.40.2",
+    "cypress": "^13.14.0"
+  },
+  "dependencies": {
+    "chance": "^1.1.12"
+  }
+}
