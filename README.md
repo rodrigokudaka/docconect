@@ -8,7 +8,7 @@ Antes de começar, você precisará ter o seguinte instalado em sua máquina:
 
 - [Node.js](https://nodejs.org/) (versão 12 ou superior)
 - [npm](https://www.npmjs.com/)
-- nom install -D cypress
+- npm install -D cypress 
 
 ## Instalação
 
